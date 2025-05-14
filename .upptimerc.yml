@@ -7,13 +7,14 @@ sites:
     url: https://familyfirst.net
   - name: All Pro Dad Chapters
     url: https://allprodadchapters.com
-
+assignees: # Users to assign downtime issues (optional)
+  - brianburridge
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname:https://familyfirstapd.github.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://familyfirst.net/wp-content/themes/familyfirst/img/GroupLockup_FF-Stack-Color-230px.png
   name: Family First Uptime
   introTitle: "Family First Site Uptime Status"
   introMessage: This site shows the uptime status for the Family First public web sites.
