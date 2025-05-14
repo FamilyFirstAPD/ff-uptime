@@ -12,8 +12,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: familyfirstapd.github.io/ff-uptime
-  # baseUrl: /your-repo-name
+  #cname: 
+  baseUrl: /ff-uptime
   logoUrl: https://familyfirst.net/wp-content/themes/familyfirst/img/GroupLockup_FF-Stack-Color-230px.png
   name: Family First Uptime
   introTitle: "Family First Site Uptime Status"
