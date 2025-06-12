@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/familyfirst.net.ico",
     "slug": "family-first",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.73%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 338,
     "timeDay": 2967,
     "timeWeek": 891,
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-06-12": 108
+      "2025-06-12": 114
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forusmarriage.com.ico",
     "slug": "for-us-marriage",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.74%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 784,
     "timeDay": 4654,
     "timeWeek": 2080,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-06-12": 102
+      "2025-06-12": 108
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fatherfirstfl.com.ico",
     "slug": "father-first-fl",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.73%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 373,
     "timeDay": 198,
     "timeWeek": 373,
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-06-12": 108
+      "2025-06-12": 114
     }
   },
   {
@@ -154,17 +154,17 @@
     "url": "https://www.markmerrill.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.markmerrill.com.ico",
     "slug": "mark-merrill",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "92.52%",
+    "uptimeDay": "92.51%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
-    "time": 562,
-    "timeDay": 3685,
-    "timeWeek": 1384,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 964,
+    "timeDay": 6223,
+    "timeWeek": 2629,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2025-06-12": 108
     }
