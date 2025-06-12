@@ -4,18 +4,20 @@
     "url": "https://familyfirst.net",
     "icon": "https://icons.duckduckgo.com/ip3/familyfirst.net.ico",
     "slug": "family-first",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 591,
-    "timeWeek": 256,
-    "timeMonth": 206,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "time": 338,
+    "timeDay": 2967,
+    "timeWeek": 891,
+    "timeMonth": 338,
+    "timeYear": 338,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "All Pro Dad Chapters",
@@ -76,18 +78,20 @@
     "url": "https://forusmarriage.com",
     "icon": "https://icons.duckduckgo.com/ip3/forusmarriage.com.ico",
     "slug": "for-us-marriage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 292,
-    "timeWeek": 353,
-    "timeMonth": 251,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "time": 418,
+    "timeDay": 2858,
+    "timeWeek": 987,
+    "timeMonth": 418,
+    "timeYear": 418,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Bible Book Club",
@@ -130,36 +134,40 @@
     "url": "https://fatherfirstfl.com",
     "icon": "https://icons.duckduckgo.com/ip3/fatherfirstfl.com.ico",
     "slug": "father-first-fl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 200,
-    "timeWeek": 399,
-    "timeMonth": 379,
-    "timeYear": 379,
-    "dailyMinutesDown": {}
+    "time": 373,
+    "timeDay": 198,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Mark Merrill",
     "url": "https://www.markmerrill.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.markmerrill.com.ico",
     "slug": "mark-merrill",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 138,
-    "timeWeek": 219,
-    "timeMonth": 236,
-    "timeYear": 236,
-    "dailyMinutesDown": {}
+    "time": 400,
+    "timeDay": 2739,
+    "timeWeek": 859,
+    "timeMonth": 400,
+    "timeYear": 400,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Internal Hub",
