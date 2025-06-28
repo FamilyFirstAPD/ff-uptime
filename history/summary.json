@@ -24,18 +24,20 @@
     "url": "https://allprodadchapters.com",
     "icon": "https://icons.duckduckgo.com/ip3/allprodadchapters.com.ico",
     "slug": "all-pro-dad-chapters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 689,
-    "timeWeek": 387,
-    "timeMonth": 381,
-    "timeYear": 348,
-    "dailyMinutesDown": {}
+    "time": 346,
+    "timeDay": 473,
+    "timeWeek": 370,
+    "timeMonth": 377,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2025-06-28": 0
+    }
   },
   {
     "name": "All Pro Dad",
@@ -174,18 +176,20 @@
     "url": "https://internal.familyfirst.net",
     "icon": "https://icons.duckduckgo.com/ip3/internal.familyfirst.net.ico",
     "slug": "internal-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 691,
-    "timeWeek": 361,
-    "timeMonth": 379,
-    "timeYear": 355,
-    "dailyMinutesDown": {}
+    "time": 353,
+    "timeDay": 467,
+    "timeWeek": 346,
+    "timeMonth": 375,
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2025-06-28": 0
+    }
   },
   {
     "name": "Donate site",
