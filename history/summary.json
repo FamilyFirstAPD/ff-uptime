@@ -156,9 +156,9 @@
     "url": "https://www.markmerrill.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.markmerrill.com.ico",
     "slug": "mark-merrill",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.84%",
@@ -168,6 +168,7 @@
     "timeMonth": 1119,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-06-12": 108
     }
   },
