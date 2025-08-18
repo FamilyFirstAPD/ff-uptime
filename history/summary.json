@@ -25,9 +25,9 @@
     "url": "https://allprodadchapters.com",
     "icon": "https://icons.duckduckgo.com/ip3/allprodadchapters.com.ico",
     "slug": "all-pro-dad-chapters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 491,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-06-28": 25
     }
   },
@@ -82,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forusmarriage.com.ico",
     "slug": "for-us-marriage",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 481,
     "timeDay": 142,
     "timeWeek": 221,
