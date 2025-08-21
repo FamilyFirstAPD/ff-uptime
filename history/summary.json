@@ -119,19 +119,19 @@
     "url": "https://www.familyminute.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.familyminute.com.ico",
     "slug": "family-minute",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 309,
-    "timeWeek": 490,
-    "timeMonth": 369,
-    "timeYear": 492,
+    "time": 597,
+    "timeDay": 5756,
+    "timeWeek": 1829,
+    "timeMonth": 708,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-21": 6
     }
   },
   {
