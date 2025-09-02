@@ -178,19 +178,19 @@
     "url": "https://internal.familyfirst.net",
     "icon": "https://icons.duckduckgo.com/ip3/internal.familyfirst.net.ico",
     "slug": "internal-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 507,
-    "timeWeek": 433,
-    "timeMonth": 523,
+    "timeDay": 461,
+    "timeWeek": 431,
+    "timeMonth": 519,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-09-02": 0
+      "2025-09-02": 6
     }
   },
   {
