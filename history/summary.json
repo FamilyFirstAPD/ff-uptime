@@ -180,18 +180,16 @@
     "slug": "internal-hub",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
     "timeDay": 461,
     "timeWeek": 431,
     "timeMonth": 519,
     "timeYear": 405,
-    "dailyMinutesDown": {
-      "2025-09-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Donate site",
