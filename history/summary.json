@@ -25,9 +25,9 @@
     "url": "https://allprodadchapters.com",
     "icon": "https://icons.duckduckgo.com/ip3/allprodadchapters.com.ico",
     "slug": "all-pro-dad-chapters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 598,
     "timeYear": 445,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-06-28": 25
     }
   },
