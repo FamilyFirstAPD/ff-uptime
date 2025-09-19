@@ -63,19 +63,19 @@
     "url": "https://www.imom.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.imom.com.ico",
     "slug": "i-mom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 9909,
-    "timeWeek": 2808,
-    "timeMonth": 1068,
-    "timeYear": 605,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 604,
+    "timeDay": 6770,
+    "timeWeek": 2551,
+    "timeMonth": 1050,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 10
     }
   },
   {
