@@ -63,18 +63,20 @@
     "url": "https://www.imom.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.imom.com.ico",
     "slug": "i-mom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 293,
-    "timeWeek": 420,
-    "timeMonth": 472,
-    "timeYear": 458,
-    "dailyMinutesDown": {}
+    "time": 605,
+    "timeDay": 9909,
+    "timeWeek": 2808,
+    "timeMonth": 1068,
+    "timeYear": 605,
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "For Us Marriage",
