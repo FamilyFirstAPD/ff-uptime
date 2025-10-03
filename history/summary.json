@@ -101,18 +101,20 @@
     "url": "https://www.biblebookclubpodcast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.biblebookclubpodcast.com.ico",
     "slug": "bible-book-club",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 463,
-    "timeWeek": 391,
+    "time": 385,
+    "timeDay": 467,
+    "timeWeek": 401,
     "timeMonth": 463,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "Family Minute",
