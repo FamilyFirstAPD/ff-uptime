@@ -69,9 +69,9 @@
     "slug": "i-mom",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.95%",
     "time": 537,
     "timeDay": 294,
@@ -79,7 +79,7 @@
     "timeMonth": 331,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-11-18": 139
+      "2025-11-18": 131
     }
   },
   {
@@ -87,9 +87,9 @@
     "url": "https://forusmarriage.com",
     "icon": "https://icons.duckduckgo.com/ip3/forusmarriage.com.ico",
     "slug": "for-us-marriage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "90.91%",
+    "uptimeDay": "90.90%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
@@ -191,17 +191,17 @@
     "url": "https://internal.familyfirst.net",
     "icon": "https://icons.duckduckgo.com/ip3/internal.familyfirst.net.ico",
     "slug": "internal-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "98.90%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
-    "time": 415,
-    "timeDay": 409,
-    "timeWeek": 419,
-    "timeMonth": 404,
-    "timeYear": 415,
+    "time": 418,
+    "timeDay": 499,
+    "timeWeek": 469,
+    "timeMonth": 423,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-11-18": 111
     }
