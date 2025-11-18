@@ -47,19 +47,19 @@
     "url": "https://www.allprodad.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.allprodad.com.ico",
     "slug": "all-pro-dad",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.96%",
     "time": 435,
-    "timeDay": 1384,
-    "timeWeek": 1160,
-    "timeMonth": 794,
+    "timeDay": 1332,
+    "timeWeek": 1129,
+    "timeMonth": 785,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-11-18": 90
+      "2025-11-18": 98
     }
   },
   {
