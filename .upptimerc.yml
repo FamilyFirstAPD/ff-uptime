@@ -33,7 +33,7 @@ status-website:
   #cname: 
   baseUrl: /ff-uptime
   logoUrl: https://familyfirst.net/wp-content/themes/familyfirst/img/GroupLockup_FF-Stack-Color-230px.png
-  name: Family First Uptime
+  name: Family First Uptime.
   introTitle: "Family First Site Uptime Status."
   introMessage: This site shows the uptime status for the Family First public web sites.
   notice: "⚠️ Cloudflare is currently experiencing issues effecting all of our web sites. [Details here](https://www.cloudflarestatus.com/) for full details."
