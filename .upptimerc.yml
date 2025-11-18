@@ -38,9 +38,6 @@ status-website:
   introMessage: This site shows the uptime status for the Family First public web sites.
   notice: "⚠️ Cloudflare is currently experiencing issues effecting all of our web sites. [Details here](https://www.cloudflarestatus.com/) for full details."
   theme: light
-  navbar:
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
