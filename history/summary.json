@@ -192,19 +192,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thehub.familyfirst.net.ico",
     "slug": "the-hub",
     "status": "up",
-    "uptime": "4.30%",
-    "uptimeDay": "4.30%",
-    "uptimeWeek": "4.30%",
-    "uptimeMonth": "4.30%",
-    "uptimeYear": "4.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2025-11-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Donate site",
