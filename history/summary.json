@@ -89,8 +89,8 @@
     "slug": "for-us-marriage",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "98.69%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 483,
@@ -99,7 +99,7 @@
     "timeMonth": 556,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-11-18": 132,
+      "2025-11-18": 131,
       "2025-06-12": 117
     }
   },
@@ -193,8 +193,8 @@
     "slug": "internal-hub",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "98.89%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
     "time": 417,
