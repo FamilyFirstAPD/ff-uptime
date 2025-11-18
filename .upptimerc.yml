@@ -37,7 +37,7 @@ status-website:
   introTitle: "Family First Site Uptime Status."
   introMessage: This site shows the uptime status for the Family First public web sites.
   notice: "⚠️ Cloudflare is currently experiencing issues effecting all of our web sites. [Details here](https://www.cloudflarestatus.com/) for full details."
-  theme: dark
+  theme: light
   navbar:
     - title: Status
       href: /
