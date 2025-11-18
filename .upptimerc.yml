@@ -21,14 +21,12 @@ sites:
     url: https://fatherfirstfl.com
   - name: Mark Merrill
     url: https://www.markmerrill.com
-  - name: Internal Hub
-    url: https://internal.familyfirst.net
+  - name: The Hub
+    url: https://thehub.familyfirst.net
   - name: Donate site
     url: https://donate.familyfirst.net
     
-assignees: # Users to assign downtime issues (optional)
-  - brianburridge
-  - StephenSGambill
+assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
