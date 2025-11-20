@@ -209,9 +209,9 @@
     "url": "https://donate.familyfirst.net",
     "icon": "https://icons.duckduckgo.com/ip3/donate.familyfirst.net.ico",
     "slug": "donate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
@@ -221,6 +221,7 @@
     "timeMonth": 336,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2025-11-20": 0,
       "2025-11-18": 72
     }
   }
